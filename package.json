@@ -3,6 +3,8 @@
   "description": "Fixes stack traces for files with source maps",
   "version": "0.2.8",
   "main": "./source-map-support.js",
+  "license": "MIT",
+  "author": "Evan Wallace",
   "scripts": {
     "test": "node_modules/mocha/bin/mocha"
   },
